@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-- 🔭 I’m currently working on some cool AI stuff at Rexera
-- 🌱 I’m currently learning about ReAct Agents, DSA
-- 💬 Ask me about anything, I'd be glad to have a conversation about Programming/AI/Fintech
+- 💬 I'd be glad to have a conversation about Programming/AI/Fintech
 - 📫 How to reach me: gegpriftimario@gmail.com
-- ⚡ Fun fact: I remember more lyrics than birthdays
