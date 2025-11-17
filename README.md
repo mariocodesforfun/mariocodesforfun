@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💬 I'd be glad to have a conversation about Programming/AI/Fintech
+- 💬 I'd be glad to chat about Programming/AI/Fintech
 - 📫 How to reach me: gegpriftimario@gmail.com
