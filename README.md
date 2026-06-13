@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🧠 I am working as a software engineer at Betterment. 
 - 💬 I'd be glad to chat about Programming/AI/Fintech
 - 📫 How to reach me: gegpriftimario@gmail.com
